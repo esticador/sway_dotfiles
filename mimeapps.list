@@ -1,0 +1,6 @@
+[Added Associations]
+application/vnd.oasis.opendocument.spreadsheet=libreoffice-2.desktop;libreoffice.desktop;
+application/x-msdownload=wine.desktop;extlinks.desktop;
+
+[Default Applications]
+application/vnd.oasis.opendocument.spreadsheet=libreoffice-2.desktop;

@@ -1,0 +1,8 @@
+// TEMA
+@theme "/home/neto/.local/share/rofi/themes/rounded-red-dark.rasi"
+
+// ÍCONES
+configuration {
+    show-icons: true;
+    icon-theme: "Papirus";
+}
