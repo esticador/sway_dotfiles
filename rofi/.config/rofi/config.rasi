@@ -1,5 +1,5 @@
 // TEMA
-@theme "/home/neto/.local/share/rofi/themes/rounded-red-dark.rasi"
+@theme "/home/neto/.local/share/rofi/themes/rounded-nord-dark.rasi"
 
 // ÍCONES
 configuration {
